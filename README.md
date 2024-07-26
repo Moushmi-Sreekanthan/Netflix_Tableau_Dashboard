@@ -2,7 +2,7 @@
 <img width="300" alt="Coding" src="https://cdn.dribbble.com/users/9378043/screenshots/16832559/media/10b207c918d604662e088308d16b366d.png">
 
 <h1><a name="introduction">Introduction</a></h1>
-<p>Netflix, the global giant in media and video streaming, captivates over 200 million subscribers worldwide with its diverse library of over 8000 movies and TV shows. In this age of digital entertainment, understanding the intricate dynamics of Netflix's content offering is paramount. Our "Netflix Tableau Dashboard" delves deep into this ever-expanding universe of entertainment, providing valuable insights and illuminating patterns that can steer content strategies and viewer engagement.</p>
+<p>Netflix, the global giant in media and video streaming, captivates over 269 million subscribers worldwide with its diverse library of over 8000 movies and TV shows. In this age of digital entertainment, understanding the intricate dynamics of Netflix's content offering is paramount. Our Netflix Tableau Dashboard delves deep into this ever-expanding universe of entertainment, providing valuable insights and illuminating patterns that can steer content strategies and viewer engagement.</p>
 <h1><a name="projectobjectives">Project Objectives</a></h1>
 <p>This Tableau project is structured around several key tasks designed to unlock the secrets of Netflix's content ecosystem:</p>
 <ul>
